@@ -1,6 +1,9 @@
 # DelayDensity-Toolbox
 DelayDensity-Toolbox, a open framework to study delay density
-Developed in Uni Ulm
+
+Developper: Chijun Shen
+
+Uni Ulm
 # Usage Example
 # case1:three task with RM schedule
 p1=30,e1=5,ph1=0;p2=40,e2=10,ph2=0;p3=60,e3=20,phi3=0
