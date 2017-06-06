@@ -1,2 +1,2 @@
 # DelayDensity-Toolbox
-DelayDensity-Toolbox, a open framework to study Delay Density
+DelayDensity-Toolbox, a open framework to study delay density
