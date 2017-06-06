@@ -24,7 +24,7 @@ ResultOfTask3=DelayDensity_FeasibleTest(ResponstimeOfTask3,p3);
 
 
 
-# case1:2 task with RM schedule compute the first responstime of task2
+# case2:2 task with RM schedule compute the first responstime of task2
 %answer is 114 s
 p1=70,e1=26,ph1=0;p2=100,e2=60,ph2=0
 validation is correct
